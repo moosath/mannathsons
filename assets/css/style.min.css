@@ -63,6 +63,14 @@ p {
     background-size: cover;
 }
 
+.hero-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
 .text-xl {
     font-size:28px;
     line-height:1.5em
